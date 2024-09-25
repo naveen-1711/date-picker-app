@@ -1,3 +1,27 @@
+# Date Picker App
+
+## Description
+A simple and interactive Date Picker application that allows users to select recurring dates based on a specified start date, end date, and recurrence interval. This app provides a user-friendly interface with options for customization and a preview of the selected dates.
+
+## Features
+- Select a start date and end date
+- Set the recurrence interval (e.g., weekly)
+- Customize options for date selection
+- Preview the selected recurring dates
+
+## Technologies Used
+- React.js
+- Zustand (for state management)
+- Tailwind CSS (for styling)
+- [Any other technologies you used]
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
