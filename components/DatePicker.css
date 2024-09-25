@@ -1,0 +1,35 @@
+.date-picker {
+    background: linear-gradient(to right, #58a2aa, #8742c7);
+    padding: 24px;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border: 1px solid #d1d5db;
+  }
+  
+  h2 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    color: #ffffff;
+  }
+  
+  h3 {
+    font-size: 1.125rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    color: #ffffff;
+  }
+  
+  ul {
+    padding-left: 1.25rem;
+  }
+  
+  li {
+    color: #aaff3b;
+    transition: color 0.2s;
+  }
+  
+  li:hover {
+    color: #ffd600;
+  }
+  
